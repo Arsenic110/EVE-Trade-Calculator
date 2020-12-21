@@ -1,0 +1,4129 @@
+.icon
+{
+    height: 1em;
+    width: 1em;
+    margin-bottom: -0.11em;
+}
+.icon-warning-triangle
+{
+    content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/exclamation-triangle.svg");
+}
+.icon-warning-circle
+{
+    content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/exclamation-circle.svg");
+}
+.icon-note
+{
+    content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/sticky-note.svg");
+}
+.icon-comments, .icon-chat
+{
+    content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/comments.svg");
+}
+.icon-user, .icon-person, .icon-personel
+{
+    content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/user.svg");
+}
+.icon-heartbeat
+{
+    content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/heartbeat.svg");
+}
+.icon-file-alt
+{
+    content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/file-alt.svg");
+}
+.icon-tags
+{
+    content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/tags.svg");
+}
+.icon-wifi
+{
+    content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/wifi.svg");
+}
+.icon-meter
+{
+    content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/tachometer-alt.svg");
+}
+.icon-flask
+{
+    content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/flask.svg");
+}
+.icon-copy
+{
+    content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/copy.svg");
+}
+.icon-heart
+{
+    content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/heart.svg");
+}
+.icon-fire
+{
+    content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/fire.svg");
+}
+.icon-lightbulb
+{
+    content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/lightbulb.svg");
+}
+.icon-trash
+{
+    content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/trash-alt.svg");
+}
+.icon-list
+{
+    content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/list-alt.svg");
+}
+.icon-home
+{
+    content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/home.svg");
+}
+.icon-eye
+{
+    content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/eye.svg");
+}
+.icon-eye-green
+{
+    content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/eye-green.svg");
+}
+.icon-plus
+{
+    content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/plus.svg");
+}
+.icon-minus
+{
+    content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/minus.svg");
+}
+.icon-redo, .icon-reset
+{
+    content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/redo.svg");
+}
+.icon-pin, .icon-thumbtack
+{
+    content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/thumbtack.svg");
+}
+.icon-eject
+{
+    content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/eject.svg");
+}
+.icon-cog, .icon-gear, .icon-gearwheel
+{
+    content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/cog.svg");
+}
+.icon-undo
+{
+    content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/undo.svg");
+}
+.icon-info
+{
+    content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/info.svg");
+}
+.icon-envelope, .icon-message
+{
+    content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/envelope.svg");
+}
+.icon-power
+{
+    content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/power-off.svg");
+}
+.icon-signal
+{
+    content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/signal.svg");
+}
+.icon-handcuffs
+{
+    content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/handcuffs.svg");
+    height: 1.6em;
+    width: 1.6em;
+    margin-top: -0.45em;
+    margin-bottom: -0.45em;
+    margin-left: -0.45em;
+    margin-right: -0.3em;
+}
+
+/*--------------------------------------------------------------------------------------------------------------------------------------*/
+/*------------------------------------------AUTO GENERATED SECTION----------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------------------------*/
+
+.icon-ad
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/ad.svg");
+}
+.icon-address-book
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/address-book.svg");
+}
+.icon-address-card
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/address-card.svg");
+}
+.icon-adjust
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/adjust.svg");
+}
+.icon-air-freshener
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/air-freshener.svg");
+}
+.icon-align-center
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/align-center.svg");
+}
+.icon-align-justify
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/align-justify.svg");
+}
+.icon-align-left
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/align-left.svg");
+}
+.icon-align-right
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/align-right.svg");
+}
+.icon-allergies
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/allergies.svg");
+}
+.icon-ambulance
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/ambulance.svg");
+}
+.icon-american-sign-language-interpreting
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/american-sign-language-interpreting.svg");
+}
+.icon-anchor
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/anchor.svg");
+}
+.icon-angle-double-down
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/angle-double-down.svg");
+}
+.icon-angle-double-left
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/angle-double-left.svg");
+}
+.icon-angle-double-right
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/angle-double-right.svg");
+}
+.icon-angle-double-up
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/angle-double-up.svg");
+}
+.icon-angle-down
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/angle-down.svg");
+}
+.icon-angle-left
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/angle-left.svg");
+}
+.icon-angle-right
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/angle-right.svg");
+}
+.icon-angle-up
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/angle-up.svg");
+}
+.icon-angry
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/angry.svg");
+}
+.icon-ankh
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/ankh.svg");
+}
+.icon-apple-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/apple-alt.svg");
+}
+.icon-archive
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/archive.svg");
+}
+.icon-archway
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/archway.svg");
+}
+.icon-arrow-alt-circle-down
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/arrow-alt-circle-down.svg");
+}
+.icon-arrow-alt-circle-left
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/arrow-alt-circle-left.svg");
+}
+.icon-arrow-alt-circle-right
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/arrow-alt-circle-right.svg");
+}
+.icon-arrow-alt-circle-up
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/arrow-alt-circle-up.svg");
+}
+.icon-arrow-circle-down
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/arrow-circle-down.svg");
+}
+.icon-arrow-circle-left
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/arrow-circle-left.svg");
+}
+.icon-arrow-circle-right
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/arrow-circle-right.svg");
+}
+.icon-arrow-circle-up
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/arrow-circle-up.svg");
+}
+.icon-arrow-down
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/arrow-down.svg");
+}
+.icon-arrow-left
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/arrow-left.svg");
+}
+.icon-arrow-right
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/arrow-right.svg");
+}
+.icon-arrow-up
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/arrow-up.svg");
+}
+.icon-arrows-alt-h
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/arrows-alt-h.svg");
+}
+.icon-arrows-alt-v
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/arrows-alt-v.svg");
+}
+.icon-arrows-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/arrows-alt.svg");
+}
+.icon-assistive-listening-systems
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/assistive-listening-systems.svg");
+}
+.icon-asterisk
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/asterisk.svg");
+}
+.icon-at
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/at.svg");
+}
+.icon-atlas
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/atlas.svg");
+}
+.icon-atom
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/atom.svg");
+}
+.icon-audio-description
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/audio-description.svg");
+}
+.icon-award
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/award.svg");
+}
+.icon-baby-carriage
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/baby-carriage.svg");
+}
+.icon-baby
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/baby.svg");
+}
+.icon-backspace
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/backspace.svg");
+}
+.icon-backward
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/backward.svg");
+}
+.icon-bacon
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/bacon.svg");
+}
+.icon-bahai
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/bahai.svg");
+}
+.icon-balance-scale-left
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/balance-scale-left.svg");
+}
+.icon-balance-scale-right
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/balance-scale-right.svg");
+}
+.icon-balance-scale
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/balance-scale.svg");
+}
+.icon-ban
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/ban.svg");
+}
+.icon-band-aid
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/band-aid.svg");
+}
+.icon-barcode
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/barcode.svg");
+}
+.icon-bars
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/bars.svg");
+}
+.icon-baseball-ball
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/baseball-ball.svg");
+}
+.icon-basketball-ball
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/basketball-ball.svg");
+}
+.icon-bath
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/bath.svg");
+}
+.icon-battery-empty
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/battery-empty.svg");
+}
+.icon-battery-full
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/battery-full.svg");
+}
+.icon-battery-half
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/battery-half.svg");
+}
+.icon-battery-quarter
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/battery-quarter.svg");
+}
+.icon-battery-three-quarters
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/battery-three-quarters.svg");
+}
+.icon-bed
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/bed.svg");
+}
+.icon-beer
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/beer.svg");
+}
+.icon-bell-slash
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/bell-slash.svg");
+}
+.icon-bell
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/bell.svg");
+}
+.icon-bezier-curve
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/bezier-curve.svg");
+}
+.icon-bible
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/bible.svg");
+}
+.icon-bicycle
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/bicycle.svg");
+}
+.icon-biking
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/biking.svg");
+}
+.icon-binoculars
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/binoculars.svg");
+}
+.icon-biohazard
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/biohazard.svg");
+}
+.icon-birthday-cake
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/birthday-cake.svg");
+}
+.icon-blender-phone
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/blender-phone.svg");
+}
+.icon-blender
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/blender.svg");
+}
+.icon-blind
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/blind.svg");
+}
+.icon-blog
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/blog.svg");
+}
+.icon-bold
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/bold.svg");
+}
+.icon-bolt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/bolt.svg");
+}
+.icon-bomb
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/bomb.svg");
+}
+.icon-bone
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/bone.svg");
+}
+.icon-bong
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/bong.svg");
+}
+.icon-book-dead
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/book-dead.svg");
+}
+.icon-book-medical
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/book-medical.svg");
+}
+.icon-book-open
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/book-open.svg");
+}
+.icon-book-reader
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/book-reader.svg");
+}
+.icon-book
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/book.svg");
+}
+.icon-bookmark
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/bookmark.svg");
+}
+.icon-border-all
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/border-all.svg");
+}
+.icon-border-none
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/border-none.svg");
+}
+.icon-border-style
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/border-style.svg");
+}
+.icon-bowling-ball
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/bowling-ball.svg");
+}
+.icon-box-open
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/box-open.svg");
+}
+.icon-box-tissue
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/box-tissue.svg");
+}
+.icon-box
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/box.svg");
+}
+.icon-boxes
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/boxes.svg");
+}
+.icon-braille
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/braille.svg");
+}
+.icon-brain
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/brain.svg");
+}
+.icon-bread-slice
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/bread-slice.svg");
+}
+.icon-briefcase-medical
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/briefcase-medical.svg");
+}
+.icon-briefcase
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/briefcase.svg");
+}
+.icon-broadcast-tower
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/broadcast-tower.svg");
+}
+.icon-broom
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/broom.svg");
+}
+.icon-brush
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/brush.svg");
+}
+.icon-bug
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/bug.svg");
+}
+.icon-building
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/building.svg");
+}
+.icon-bullhorn
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/bullhorn.svg");
+}
+.icon-bullseye
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/bullseye.svg");
+}
+.icon-burn
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/burn.svg");
+}
+.icon-bus-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/bus-alt.svg");
+}
+.icon-bus
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/bus.svg");
+}
+.icon-business-time
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/business-time.svg");
+}
+.icon-calculator
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/calculator.svg");
+}
+.icon-calendar-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/calendar-alt.svg");
+}
+.icon-calendar-check
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/calendar-check.svg");
+}
+.icon-calendar-day
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/calendar-day.svg");
+}
+.icon-calendar-minus
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/calendar-minus.svg");
+}
+.icon-calendar-plus
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/calendar-plus.svg");
+}
+.icon-calendar-times
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/calendar-times.svg");
+}
+.icon-calendar-week
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/calendar-week.svg");
+}
+.icon-calendar
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/calendar.svg");
+}
+.icon-camera-retro
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/camera-retro.svg");
+}
+.icon-camera
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/camera.svg");
+}
+.icon-campground
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/campground.svg");
+}
+.icon-candy-cane
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/candy-cane.svg");
+}
+.icon-cannabis
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/cannabis.svg");
+}
+.icon-capsules
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/capsules.svg");
+}
+.icon-car-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/car-alt.svg");
+}
+.icon-car-battery
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/car-battery.svg");
+}
+.icon-car-crash
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/car-crash.svg");
+}
+.icon-car-side
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/car-side.svg");
+}
+.icon-car
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/car.svg");
+}
+.icon-caravan
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/caravan.svg");
+}
+.icon-caret-down
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/caret-down.svg");
+}
+.icon-caret-left
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/caret-left.svg");
+}
+.icon-caret-right
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/caret-right.svg");
+}
+.icon-caret-square-down
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/caret-square-down.svg");
+}
+.icon-caret-square-left
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/caret-square-left.svg");
+}
+.icon-caret-square-right
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/caret-square-right.svg");
+}
+.icon-caret-square-up
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/caret-square-up.svg");
+}
+.icon-caret-up
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/caret-up.svg");
+}
+.icon-carrot
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/carrot.svg");
+}
+.icon-cart-arrow-down
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/cart-arrow-down.svg");
+}
+.icon-cart-plus
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/cart-plus.svg");
+}
+.icon-cash-register
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/cash-register.svg");
+}
+.icon-cat
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/cat.svg");
+}
+.icon-certificate
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/certificate.svg");
+}
+.icon-chair
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/chair.svg");
+}
+.icon-chalkboard-teacher
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/chalkboard-teacher.svg");
+}
+.icon-chalkboard
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/chalkboard.svg");
+}
+.icon-charging-station
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/charging-station.svg");
+}
+.icon-chart-area
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/chart-area.svg");
+}
+.icon-chart-bar
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/chart-bar.svg");
+}
+.icon-chart-line
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/chart-line.svg");
+}
+.icon-chart-pie
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/chart-pie.svg");
+}
+.icon-check-circle
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/check-circle.svg");
+}
+.icon-check-double
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/check-double.svg");
+}
+.icon-check-square
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/check-square.svg");
+}
+.icon-check
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/check.svg");
+}
+.icon-cheese
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/cheese.svg");
+}
+.icon-chess-bishop
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/chess-bishop.svg");
+}
+.icon-chess-board
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/chess-board.svg");
+}
+.icon-chess-king
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/chess-king.svg");
+}
+.icon-chess-knight
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/chess-knight.svg");
+}
+.icon-chess-pawn
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/chess-pawn.svg");
+}
+.icon-chess-queen
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/chess-queen.svg");
+}
+.icon-chess-rook
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/chess-rook.svg");
+}
+.icon-chess
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/chess.svg");
+}
+.icon-chevron-circle-down
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/chevron-circle-down.svg");
+}
+.icon-chevron-circle-left
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/chevron-circle-left.svg");
+}
+.icon-chevron-circle-right
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/chevron-circle-right.svg");
+}
+.icon-chevron-circle-up
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/chevron-circle-up.svg");
+}
+.icon-chevron-down
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/chevron-down.svg");
+}
+.icon-chevron-left
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/chevron-left.svg");
+}
+.icon-chevron-right
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/chevron-right.svg");
+}
+.icon-chevron-up
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/chevron-up.svg");
+}
+.icon-child
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/child.svg");
+}
+.icon-church
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/church.svg");
+}
+.icon-circle-notch
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/circle-notch.svg");
+}
+.icon-circle
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/circle.svg");
+}
+.icon-city
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/city.svg");
+}
+.icon-clinic-medical
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/clinic-medical.svg");
+}
+.icon-clipboard-check
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/clipboard-check.svg");
+}
+.icon-clipboard-list
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/clipboard-list.svg");
+}
+.icon-clipboard
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/clipboard.svg");
+}
+.icon-clock
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/clock.svg");
+}
+.icon-clone
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/clone.svg");
+}
+.icon-closed-captioning
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/closed-captioning.svg");
+}
+.icon-cloud-download-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/cloud-download-alt.svg");
+}
+.icon-cloud-meatball
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/cloud-meatball.svg");
+}
+.icon-cloud-moon-rain
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/cloud-moon-rain.svg");
+}
+.icon-cloud-moon
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/cloud-moon.svg");
+}
+.icon-cloud-rain
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/cloud-rain.svg");
+}
+.icon-cloud-showers-heavy
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/cloud-showers-heavy.svg");
+}
+.icon-cloud-sun-rain
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/cloud-sun-rain.svg");
+}
+.icon-cloud-sun
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/cloud-sun.svg");
+}
+.icon-cloud-upload-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/cloud-upload-alt.svg");
+}
+.icon-cloud
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/cloud.svg");
+}
+.icon-cocktail
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/cocktail.svg");
+}
+.icon-code-branch
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/code-branch.svg");
+}
+.icon-code
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/code.svg");
+}
+.icon-coffee
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/coffee.svg");
+}
+.icon-cog
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/cog.svg");
+}
+.icon-cogs
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/cogs.svg");
+}
+.icon-coins
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/coins.svg");
+}
+.icon-columns
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/columns.svg");
+}
+.icon-comment-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/comment-alt.svg");
+}
+.icon-comment-dollar
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/comment-dollar.svg");
+}
+.icon-comment-dots
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/comment-dots.svg");
+}
+.icon-comment-medical
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/comment-medical.svg");
+}
+.icon-comment-slash
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/comment-slash.svg");
+}
+.icon-comment
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/comment.svg");
+}
+.icon-comments-dollar
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/comments-dollar.svg");
+}
+.icon-comments
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/comments.svg");
+}
+.icon-compact-disc
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/compact-disc.svg");
+}
+.icon-compass
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/compass.svg");
+}
+.icon-compress-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/compress-alt.svg");
+}
+.icon-compress-arrows-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/compress-arrows-alt.svg");
+}
+.icon-compress
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/compress.svg");
+}
+.icon-concierge-bell
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/concierge-bell.svg");
+}
+.icon-cookie-bite
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/cookie-bite.svg");
+}
+.icon-cookie
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/cookie.svg");
+}
+.icon-copy
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/copy.svg");
+}
+.icon-copyright
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/copyright.svg");
+}
+.icon-couch
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/couch.svg");
+}
+.icon-credit-card
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/credit-card.svg");
+}
+.icon-crop-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/crop-alt.svg");
+}
+.icon-crop
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/crop.svg");
+}
+.icon-cross
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/cross.svg");
+}
+.icon-crosshairs
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/crosshairs.svg");
+}
+.icon-crow
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/crow.svg");
+}
+.icon-crown
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/crown.svg");
+}
+.icon-crutch
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/crutch.svg");
+}
+.icon-cube
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/cube.svg");
+}
+.icon-cubes
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/cubes.svg");
+}
+.icon-cut
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/cut.svg");
+}
+.icon-database
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/database.svg");
+}
+.icon-deaf
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/deaf.svg");
+}
+.icon-democrat
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/democrat.svg");
+}
+.icon-desktop
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/desktop.svg");
+}
+.icon-dharmachakra
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/dharmachakra.svg");
+}
+.icon-diagnoses
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/diagnoses.svg");
+}
+.icon-dice-d20
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/dice-d20.svg");
+}
+.icon-dice-d6
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/dice-d6.svg");
+}
+.icon-dice-five
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/dice-five.svg");
+}
+.icon-dice-four
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/dice-four.svg");
+}
+.icon-dice-one
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/dice-one.svg");
+}
+.icon-dice-six
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/dice-six.svg");
+}
+.icon-dice-three
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/dice-three.svg");
+}
+.icon-dice-two
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/dice-two.svg");
+}
+.icon-dice
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/dice.svg");
+}
+.icon-digital-tachograph
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/digital-tachograph.svg");
+}
+.icon-directions
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/directions.svg");
+}
+.icon-disease
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/disease.svg");
+}
+.icon-divide
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/divide.svg");
+}
+.icon-dizzy
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/dizzy.svg");
+}
+.icon-dna
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/dna.svg");
+}
+.icon-dog
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/dog.svg");
+}
+.icon-dollar-sign
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/dollar-sign.svg");
+}
+.icon-dolly-flatbed
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/dolly-flatbed.svg");
+}
+.icon-dolly
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/dolly.svg");
+}
+.icon-donate
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/donate.svg");
+}
+.icon-door-closed
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/door-closed.svg");
+}
+.icon-door-open
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/door-open.svg");
+}
+.icon-dot-circle
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/dot-circle.svg");
+}
+.icon-dove
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/dove.svg");
+}
+.icon-download
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/download.svg");
+}
+.icon-drafting-compass
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/drafting-compass.svg");
+}
+.icon-dragon
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/dragon.svg");
+}
+.icon-draw-polygon
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/draw-polygon.svg");
+}
+.icon-drum-steelpan
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/drum-steelpan.svg");
+}
+.icon-drum
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/drum.svg");
+}
+.icon-drumstick-bite
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/drumstick-bite.svg");
+}
+.icon-dumbbell
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/dumbbell.svg");
+}
+.icon-dumpster-fire
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/dumpster-fire.svg");
+}
+.icon-dumpster
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/dumpster.svg");
+}
+.icon-dungeon
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/dungeon.svg");
+}
+.icon-edit
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/edit.svg");
+}
+.icon-egg
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/egg.svg");
+}
+.icon-eject
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/eject.svg");
+}
+.icon-ellipsis-h
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/ellipsis-h.svg");
+}
+.icon-ellipsis-v
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/ellipsis-v.svg");
+}
+.icon-envelope-open-text
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/envelope-open-text.svg");
+}
+.icon-envelope-open
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/envelope-open.svg");
+}
+.icon-envelope-square
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/envelope-square.svg");
+}
+.icon-envelope
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/envelope.svg");
+}
+.icon-equals
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/equals.svg");
+}
+.icon-eraser
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/eraser.svg");
+}
+.icon-ethernet
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/ethernet.svg");
+}
+.icon-euro-sign
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/euro-sign.svg");
+}
+.icon-exchange-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/exchange-alt.svg");
+}
+.icon-exclamation-circle
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/exclamation-circle.svg");
+}
+.icon-exclamation-triangle
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/exclamation-triangle.svg");
+}
+.icon-exclamation
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/exclamation.svg");
+}
+.icon-expand-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/expand-alt.svg");
+}
+.icon-expand-arrows-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/expand-arrows-alt.svg");
+}
+.icon-expand
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/expand.svg");
+}
+.icon-external-link-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/external-link-alt.svg");
+}
+.icon-external-link-square-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/external-link-square-alt.svg");
+}
+.icon-eye-dropper
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/eye-dropper.svg");
+}
+.icon-eye-slash
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/eye-slash.svg");
+}
+.icon-eye
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/eye.svg");
+}
+.icon-fan
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/fan.svg");
+}
+.icon-fast-backward
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/fast-backward.svg");
+}
+.icon-fast-forward
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/fast-forward.svg");
+}
+.icon-faucet
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/faucet.svg");
+}
+.icon-fax
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/fax.svg");
+}
+.icon-feather-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/feather-alt.svg");
+}
+.icon-feather
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/feather.svg");
+}
+.icon-female
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/female.svg");
+}
+.icon-fighter-jet
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/fighter-jet.svg");
+}
+.icon-file-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/file-alt.svg");
+}
+.icon-file-archive
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/file-archive.svg");
+}
+.icon-file-audio
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/file-audio.svg");
+}
+.icon-file-code
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/file-code.svg");
+}
+.icon-file-contract
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/file-contract.svg");
+}
+.icon-file-csv
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/file-csv.svg");
+}
+.icon-file-download
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/file-download.svg");
+}
+.icon-file-excel
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/file-excel.svg");
+}
+.icon-file-export
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/file-export.svg");
+}
+.icon-file-image
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/file-image.svg");
+}
+.icon-file-import
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/file-import.svg");
+}
+.icon-file-invoice-dollar
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/file-invoice-dollar.svg");
+}
+.icon-file-invoice
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/file-invoice.svg");
+}
+.icon-file-medical-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/file-medical-alt.svg");
+}
+.icon-file-medical
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/file-medical.svg");
+}
+.icon-file-pdf
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/file-pdf.svg");
+}
+.icon-file-powerpoint
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/file-powerpoint.svg");
+}
+.icon-file-prescription
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/file-prescription.svg");
+}
+.icon-file-signature
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/file-signature.svg");
+}
+.icon-file-upload
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/file-upload.svg");
+}
+.icon-file-video
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/file-video.svg");
+}
+.icon-file-word
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/file-word.svg");
+}
+.icon-file
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/file.svg");
+}
+.icon-fill-drip
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/fill-drip.svg");
+}
+.icon-fill
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/fill.svg");
+}
+.icon-film
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/film.svg");
+}
+.icon-filter
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/filter.svg");
+}
+.icon-fingerprint
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/fingerprint.svg");
+}
+.icon-fire-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/fire-alt.svg");
+}
+.icon-fire-extinguisher
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/fire-extinguisher.svg");
+}
+.icon-fire
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/fire.svg");
+}
+.icon-first-aid
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/first-aid.svg");
+}
+.icon-fish
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/fish.svg");
+}
+.icon-fist-raised
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/fist-raised.svg");
+}
+.icon-flag-checkered
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/flag-checkered.svg");
+}
+.icon-flag-usa
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/flag-usa.svg");
+}
+.icon-flag
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/flag.svg");
+}
+.icon-flask
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/flask.svg");
+}
+.icon-flushed
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/flushed.svg");
+}
+.icon-folder-minus
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/folder-minus.svg");
+}
+.icon-folder-open
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/folder-open.svg");
+}
+.icon-folder-plus
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/folder-plus.svg");
+}
+.icon-folder
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/folder.svg");
+}
+.icon-font-awesome-logo-full
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/font-awesome-logo-full.svg");
+}
+.icon-font
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/font.svg");
+}
+.icon-football-ball
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/football-ball.svg");
+}
+.icon-forward
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/forward.svg");
+}
+.icon-frog
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/frog.svg");
+}
+.icon-frown-open
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/frown-open.svg");
+}
+.icon-frown
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/frown.svg");
+}
+.icon-funnel-dollar
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/funnel-dollar.svg");
+}
+.icon-futbol
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/futbol.svg");
+}
+.icon-gamepad
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/gamepad.svg");
+}
+.icon-gas-pump
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/gas-pump.svg");
+}
+.icon-gavel
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/gavel.svg");
+}
+.icon-gem
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/gem.svg");
+}
+.icon-genderless
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/genderless.svg");
+}
+.icon-ghost
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/ghost.svg");
+}
+.icon-gift
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/gift.svg");
+}
+.icon-gifts
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/gifts.svg");
+}
+.icon-glass-cheers
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/glass-cheers.svg");
+}
+.icon-glass-martini-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/glass-martini-alt.svg");
+}
+.icon-glass-martini
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/glass-martini.svg");
+}
+.icon-glass-whiskey
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/glass-whiskey.svg");
+}
+.icon-glasses
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/glasses.svg");
+}
+.icon-globe-africa
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/globe-africa.svg");
+}
+.icon-globe-americas
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/globe-americas.svg");
+}
+.icon-globe-asia
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/globe-asia.svg");
+}
+.icon-globe-europe
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/globe-europe.svg");
+}
+.icon-globe
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/globe.svg");
+}
+.icon-golf-ball
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/golf-ball.svg");
+}
+.icon-gopuram
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/gopuram.svg");
+}
+.icon-graduation-cap
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/graduation-cap.svg");
+}
+.icon-greater-than-equal
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/greater-than-equal.svg");
+}
+.icon-greater-than
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/greater-than.svg");
+}
+.icon-grimace
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/grimace.svg");
+}
+.icon-grin-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/grin-alt.svg");
+}
+.icon-grin-beam-sweat
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/grin-beam-sweat.svg");
+}
+.icon-grin-beam
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/grin-beam.svg");
+}
+.icon-grin-hearts
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/grin-hearts.svg");
+}
+.icon-grin-squint-tears
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/grin-squint-tears.svg");
+}
+.icon-grin-squint
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/grin-squint.svg");
+}
+.icon-grin-stars
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/grin-stars.svg");
+}
+.icon-grin-tears
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/grin-tears.svg");
+}
+.icon-grin-tongue-squint
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/grin-tongue-squint.svg");
+}
+.icon-grin-tongue-wink
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/grin-tongue-wink.svg");
+}
+.icon-grin-tongue
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/grin-tongue.svg");
+}
+.icon-grin-wink
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/grin-wink.svg");
+}
+.icon-grin
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/grin.svg");
+}
+.icon-grip-horizontal
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/grip-horizontal.svg");
+}
+.icon-grip-lines-vertical
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/grip-lines-vertical.svg");
+}
+.icon-grip-lines
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/grip-lines.svg");
+}
+.icon-grip-vertical
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/grip-vertical.svg");
+}
+.icon-guitar
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/guitar.svg");
+}
+.icon-h-square
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/h-square.svg");
+}
+.icon-hamburger
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/hamburger.svg");
+}
+.icon-hammer
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/hammer.svg");
+}
+.icon-hamsa
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/hamsa.svg");
+}
+.icon-hand-holding-heart
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/hand-holding-heart.svg");
+}
+.icon-hand-holding-medical
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/hand-holding-medical.svg");
+}
+.icon-hand-holding-usd
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/hand-holding-usd.svg");
+}
+.icon-hand-holding-water
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/hand-holding-water.svg");
+}
+.icon-hand-holding
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/hand-holding.svg");
+}
+.icon-hand-lizard
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/hand-lizard.svg");
+}
+.icon-hand-middle-finger
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/hand-middle-finger.svg");
+}
+.icon-hand-paper
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/hand-paper.svg");
+}
+.icon-hand-peace
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/hand-peace.svg");
+}
+.icon-hand-point-down
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/hand-point-down.svg");
+}
+.icon-hand-point-left
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/hand-point-left.svg");
+}
+.icon-hand-point-right
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/hand-point-right.svg");
+}
+.icon-hand-point-up
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/hand-point-up.svg");
+}
+.icon-hand-pointer
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/hand-pointer.svg");
+}
+.icon-hand-rock
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/hand-rock.svg");
+}
+.icon-hand-scissors
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/hand-scissors.svg");
+}
+.icon-hand-sparkles
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/hand-sparkles.svg");
+}
+.icon-hand-spock
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/hand-spock.svg");
+}
+.icon-hands-helping
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/hands-helping.svg");
+}
+.icon-hands-wash
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/hands-wash.svg");
+}
+.icon-hands
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/hands.svg");
+}
+.icon-handshake-alt-slash
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/handshake-alt-slash.svg");
+}
+.icon-handshake-slash
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/handshake-slash.svg");
+}
+.icon-handshake
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/handshake.svg");
+}
+.icon-hanukiah
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/hanukiah.svg");
+}
+.icon-hard-hat
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/hard-hat.svg");
+}
+.icon-hashtag
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/hashtag.svg");
+}
+.icon-hat-cowboy-side
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/hat-cowboy-side.svg");
+}
+.icon-hat-cowboy
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/hat-cowboy.svg");
+}
+.icon-hat-wizard
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/hat-wizard.svg");
+}
+.icon-hdd
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/hdd.svg");
+}
+.icon-head-side-cough-slash
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/head-side-cough-slash.svg");
+}
+.icon-head-side-cough
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/head-side-cough.svg");
+}
+.icon-head-side-mask
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/head-side-mask.svg");
+}
+.icon-head-side-virus
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/head-side-virus.svg");
+}
+.icon-heading
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/heading.svg");
+}
+.icon-headphones-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/headphones-alt.svg");
+}
+.icon-headphones
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/headphones.svg");
+}
+.icon-headset
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/headset.svg");
+}
+.icon-heart-broken
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/heart-broken.svg");
+}
+.icon-heart
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/heart.svg");
+}
+.icon-heartbeat
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/heartbeat.svg");
+}
+.icon-helicopter
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/helicopter.svg");
+}
+.icon-highlighter
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/highlighter.svg");
+}
+.icon-hiking
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/hiking.svg");
+}
+.icon-hippo
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/hippo.svg");
+}
+.icon-history
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/history.svg");
+}
+.icon-hockey-puck
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/hockey-puck.svg");
+}
+.icon-holly-berry
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/holly-berry.svg");
+}
+.icon-home
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/home.svg");
+}
+.icon-horse-head
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/horse-head.svg");
+}
+.icon-horse
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/horse.svg");
+}
+.icon-hospital-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/hospital-alt.svg");
+}
+.icon-hospital-symbol
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/hospital-symbol.svg");
+}
+.icon-hospital-user
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/hospital-user.svg");
+}
+.icon-hospital
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/hospital.svg");
+}
+.icon-hot-tub
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/hot-tub.svg");
+}
+.icon-hotdog
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/hotdog.svg");
+}
+.icon-hotel
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/hotel.svg");
+}
+.icon-hourglass-end
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/hourglass-end.svg");
+}
+.icon-hourglass-half
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/hourglass-half.svg");
+}
+.icon-hourglass-start
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/hourglass-start.svg");
+}
+.icon-hourglass
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/hourglass.svg");
+}
+.icon-house-damage
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/house-damage.svg");
+}
+.icon-house-user
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/house-user.svg");
+}
+.icon-hryvnia
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/hryvnia.svg");
+}
+.icon-i-cursor
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/i-cursor.svg");
+}
+.icon-ice-cream
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/ice-cream.svg");
+}
+.icon-icicles
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/icicles.svg");
+}
+.icon-icons
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/icons.svg");
+}
+.icon-id-badge
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/id-badge.svg");
+}
+.icon-id-card-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/id-card-alt.svg");
+}
+.icon-id-card
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/id-card.svg");
+}
+.icon-igloo
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/igloo.svg");
+}
+.icon-image
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/image.svg");
+}
+.icon-images
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/images.svg");
+}
+.icon-inbox
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/inbox.svg");
+}
+.icon-indent
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/indent.svg");
+}
+.icon-industry
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/industry.svg");
+}
+.icon-infinity
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/infinity.svg");
+}
+.icon-info-circle
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/info-circle.svg");
+}
+.icon-info
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/info.svg");
+}
+.icon-italic
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/italic.svg");
+}
+.icon-jedi
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/jedi.svg");
+}
+.icon-joint
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/joint.svg");
+}
+.icon-journal-whills
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/journal-whills.svg");
+}
+.icon-kaaba
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/kaaba.svg");
+}
+.icon-key
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/key.svg");
+}
+.icon-keyboard
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/keyboard.svg");
+}
+.icon-khanda
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/khanda.svg");
+}
+.icon-kiss-beam
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/kiss-beam.svg");
+}
+.icon-kiss-wink-heart
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/kiss-wink-heart.svg");
+}
+.icon-kiss
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/kiss.svg");
+}
+.icon-kiwi-bird
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/kiwi-bird.svg");
+}
+.icon-landmark
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/landmark.svg");
+}
+.icon-language
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/language.svg");
+}
+.icon-laptop-code
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/laptop-code.svg");
+}
+.icon-laptop-house
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/laptop-house.svg");
+}
+.icon-laptop-medical
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/laptop-medical.svg");
+}
+.icon-laptop
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/laptop.svg");
+}
+.icon-laugh-beam
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/laugh-beam.svg");
+}
+.icon-laugh-squint
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/laugh-squint.svg");
+}
+.icon-laugh-wink
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/laugh-wink.svg");
+}
+.icon-laugh
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/laugh.svg");
+}
+.icon-layer-group
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/layer-group.svg");
+}
+.icon-leaf
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/leaf.svg");
+}
+.icon-lemon
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/lemon.svg");
+}
+.icon-less-than-equal
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/less-than-equal.svg");
+}
+.icon-less-than
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/less-than.svg");
+}
+.icon-level-down-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/level-down-alt.svg");
+}
+.icon-level-up-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/level-up-alt.svg");
+}
+.icon-life-ring
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/life-ring.svg");
+}
+.icon-lightbulb
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/lightbulb.svg");
+}
+.icon-link
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/link.svg");
+}
+.icon-lira-sign
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/lira-sign.svg");
+}
+.icon-list-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/list-alt.svg");
+}
+.icon-list-ol
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/list-ol.svg");
+}
+.icon-list-ul
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/list-ul.svg");
+}
+.icon-list
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/list.svg");
+}
+.icon-location-arrow
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/location-arrow.svg");
+}
+.icon-lock-open
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/lock-open.svg");
+}
+.icon-lock
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/lock.svg");
+}
+.icon-long-arrow-alt-down
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/long-arrow-alt-down.svg");
+}
+.icon-long-arrow-alt-left
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/long-arrow-alt-left.svg");
+}
+.icon-long-arrow-alt-right
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/long-arrow-alt-right.svg");
+}
+.icon-long-arrow-alt-up
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/long-arrow-alt-up.svg");
+}
+.icon-low-vision
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/low-vision.svg");
+}
+.icon-luggage-cart
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/luggage-cart.svg");
+}
+.icon-lungs-virus
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/lungs-virus.svg");
+}
+.icon-lungs
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/lungs.svg");
+}
+.icon-magic
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/magic.svg");
+}
+.icon-magnet
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/magnet.svg");
+}
+.icon-mail-bulk
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/mail-bulk.svg");
+}
+.icon-male
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/male.svg");
+}
+.icon-map-marked-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/map-marked-alt.svg");
+}
+.icon-map-marked
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/map-marked.svg");
+}
+.icon-map-marker-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/map-marker-alt.svg");
+}
+.icon-map-marker
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/map-marker.svg");
+}
+.icon-map-pin
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/map-pin.svg");
+}
+.icon-map-signs
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/map-signs.svg");
+}
+.icon-map
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/map.svg");
+}
+.icon-marker
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/marker.svg");
+}
+.icon-mars-double
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/mars-double.svg");
+}
+.icon-mars-stroke-h
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/mars-stroke-h.svg");
+}
+.icon-mars-stroke-v
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/mars-stroke-v.svg");
+}
+.icon-mars-stroke
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/mars-stroke.svg");
+}
+.icon-mars
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/mars.svg");
+}
+.icon-mask
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/mask.svg");
+}
+.icon-medal
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/medal.svg");
+}
+.icon-medkit
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/medkit.svg");
+}
+.icon-meh-blank
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/meh-blank.svg");
+}
+.icon-meh-rolling-eyes
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/meh-rolling-eyes.svg");
+}
+.icon-meh
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/meh.svg");
+}
+.icon-memory
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/memory.svg");
+}
+.icon-menorah
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/menorah.svg");
+}
+.icon-mercury
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/mercury.svg");
+}
+.icon-meteor
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/meteor.svg");
+}
+.icon-microchip
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/microchip.svg");
+}
+.icon-microphone-alt-slash
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/microphone-alt-slash.svg");
+}
+.icon-microphone-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/microphone-alt.svg");
+}
+.icon-microphone-slash
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/microphone-slash.svg");
+}
+.icon-microphone
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/microphone.svg");
+}
+.icon-microscope
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/microscope.svg");
+}
+.icon-minus-circle
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/minus-circle.svg");
+}
+.icon-minus-square
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/minus-square.svg");
+}
+.icon-minus
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/minus.svg");
+}
+.icon-mitten
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/mitten.svg");
+}
+.icon-mobile-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/mobile-alt.svg");
+}
+.icon-mobile
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/mobile.svg");
+}
+.icon-money-bill-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/money-bill-alt.svg");
+}
+.icon-money-bill-wave-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/money-bill-wave-alt.svg");
+}
+.icon-money-bill-wave
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/money-bill-wave.svg");
+}
+.icon-money-bill
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/money-bill.svg");
+}
+.icon-money-check-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/money-check-alt.svg");
+}
+.icon-money-check
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/money-check.svg");
+}
+.icon-monument
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/monument.svg");
+}
+.icon-moon
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/moon.svg");
+}
+.icon-mortar-pestle
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/mortar-pestle.svg");
+}
+.icon-mosque
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/mosque.svg");
+}
+.icon-motorcycle
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/motorcycle.svg");
+}
+.icon-mountain
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/mountain.svg");
+}
+.icon-mouse-pointer
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/mouse-pointer.svg");
+}
+.icon-mouse
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/mouse.svg");
+}
+.icon-mug-hot
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/mug-hot.svg");
+}
+.icon-music
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/music.svg");
+}
+.icon-network-wired
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/network-wired.svg");
+}
+.icon-neuter
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/neuter.svg");
+}
+.icon-newspaper
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/newspaper.svg");
+}
+.icon-not-equal
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/not-equal.svg");
+}
+.icon-notes-medical
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/notes-medical.svg");
+}
+.icon-object-group
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/object-group.svg");
+}
+.icon-object-ungroup
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/object-ungroup.svg");
+}
+.icon-oil-can
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/oil-can.svg");
+}
+.icon-om
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/om.svg");
+}
+.icon-otter
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/otter.svg");
+}
+.icon-outdent
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/outdent.svg");
+}
+.icon-pager
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/pager.svg");
+}
+.icon-paint-brush
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/paint-brush.svg");
+}
+.icon-paint-roller
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/paint-roller.svg");
+}
+.icon-palette
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/palette.svg");
+}
+.icon-pallet
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/pallet.svg");
+}
+.icon-paper-plane
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/paper-plane.svg");
+}
+.icon-paperclip
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/paperclip.svg");
+}
+.icon-parachute-box
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/parachute-box.svg");
+}
+.icon-paragraph
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/paragraph.svg");
+}
+.icon-parking
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/parking.svg");
+}
+.icon-passport
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/passport.svg");
+}
+.icon-pastafarianism
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/pastafarianism.svg");
+}
+.icon-paste
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/paste.svg");
+}
+.icon-pause-circle
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/pause-circle.svg");
+}
+.icon-pause
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/pause.svg");
+}
+.icon-paw
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/paw.svg");
+}
+.icon-peace
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/peace.svg");
+}
+.icon-pen-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/pen-alt.svg");
+}
+.icon-pen-fancy
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/pen-fancy.svg");
+}
+.icon-pen-nib
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/pen-nib.svg");
+}
+.icon-pen-square
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/pen-square.svg");
+}
+.icon-pen
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/pen.svg");
+}
+.icon-pencil-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/pencil-alt.svg");
+}
+.icon-pencil-ruler
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/pencil-ruler.svg");
+}
+.icon-people-arrows
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/people-arrows.svg");
+}
+.icon-people-carry
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/people-carry.svg");
+}
+.icon-pepper-hot
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/pepper-hot.svg");
+}
+.icon-percent
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/percent.svg");
+}
+.icon-percentage
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/percentage.svg");
+}
+.icon-person-booth
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/person-booth.svg");
+}
+.icon-phone-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/phone-alt.svg");
+}
+.icon-phone-slash
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/phone-slash.svg");
+}
+.icon-phone-square-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/phone-square-alt.svg");
+}
+.icon-phone-square
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/phone-square.svg");
+}
+.icon-phone-volume
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/phone-volume.svg");
+}
+.icon-phone
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/phone.svg");
+}
+.icon-photo-video
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/photo-video.svg");
+}
+.icon-piggy-bank
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/piggy-bank.svg");
+}
+.icon-pills
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/pills.svg");
+}
+.icon-pizza-slice
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/pizza-slice.svg");
+}
+.icon-place-of-worship
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/place-of-worship.svg");
+}
+.icon-plane-arrival
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/plane-arrival.svg");
+}
+.icon-plane-departure
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/plane-departure.svg");
+}
+.icon-plane-slash
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/plane-slash.svg");
+}
+.icon-plane
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/plane.svg");
+}
+.icon-play-circle
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/play-circle.svg");
+}
+.icon-play
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/play.svg");
+}
+.icon-plug
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/plug.svg");
+}
+.icon-plus-circle
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/plus-circle.svg");
+}
+.icon-plus-square
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/plus-square.svg");
+}
+.icon-plus
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/plus.svg");
+}
+.icon-podcast
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/podcast.svg");
+}
+.icon-poll-h
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/poll-h.svg");
+}
+.icon-poll
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/poll.svg");
+}
+.icon-poo-storm
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/poo-storm.svg");
+}
+.icon-poo
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/poo.svg");
+}
+.icon-poop
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/poop.svg");
+}
+.icon-portrait
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/portrait.svg");
+}
+.icon-pound-sign
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/pound-sign.svg");
+}
+.icon-power-off
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/power-off.svg");
+}
+.icon-pray
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/pray.svg");
+}
+.icon-praying-hands
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/praying-hands.svg");
+}
+.icon-prescription-bottle-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/prescription-bottle-alt.svg");
+}
+.icon-prescription-bottle
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/prescription-bottle.svg");
+}
+.icon-prescription
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/prescription.svg");
+}
+.icon-print
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/print.svg");
+}
+.icon-procedures
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/procedures.svg");
+}
+.icon-project-diagram
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/project-diagram.svg");
+}
+.icon-pump-medical
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/pump-medical.svg");
+}
+.icon-pump-soap
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/pump-soap.svg");
+}
+.icon-puzzle-piece
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/puzzle-piece.svg");
+}
+.icon-qrcode
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/qrcode.svg");
+}
+.icon-question-circle
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/question-circle.svg");
+}
+.icon-question
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/question.svg");
+}
+.icon-quidditch
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/quidditch.svg");
+}
+.icon-quote-left
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/quote-left.svg");
+}
+.icon-quote-right
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/quote-right.svg");
+}
+.icon-quran
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/quran.svg");
+}
+.icon-radiation-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/radiation-alt.svg");
+}
+.icon-radiation
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/radiation.svg");
+}
+.icon-rainbow
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/rainbow.svg");
+}
+.icon-random
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/random.svg");
+}
+.icon-receipt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/receipt.svg");
+}
+.icon-record-vinyl
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/record-vinyl.svg");
+}
+.icon-recycle
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/recycle.svg");
+}
+.icon-redo-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/redo-alt.svg");
+}
+.icon-redo
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/redo.svg");
+}
+.icon-registered
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/registered.svg");
+}
+.icon-remove-format
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/remove-format.svg");
+}
+.icon-reply-all
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/reply-all.svg");
+}
+.icon-reply
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/reply.svg");
+}
+.icon-republican
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/republican.svg");
+}
+.icon-restroom
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/restroom.svg");
+}
+.icon-retweet
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/retweet.svg");
+}
+.icon-ribbon
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/ribbon.svg");
+}
+.icon-ring
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/ring.svg");
+}
+.icon-road
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/road.svg");
+}
+.icon-robot
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/robot.svg");
+}
+.icon-rocket
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/rocket.svg");
+}
+.icon-route
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/route.svg");
+}
+.icon-rss-square
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/rss-square.svg");
+}
+.icon-rss
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/rss.svg");
+}
+.icon-ruble-sign
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/ruble-sign.svg");
+}
+.icon-ruler-combined
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/ruler-combined.svg");
+}
+.icon-ruler-horizontal
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/ruler-horizontal.svg");
+}
+.icon-ruler-vertical
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/ruler-vertical.svg");
+}
+.icon-ruler
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/ruler.svg");
+}
+.icon-running
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/running.svg");
+}
+.icon-rupee-sign
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/rupee-sign.svg");
+}
+.icon-sad-cry
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/sad-cry.svg");
+}
+.icon-sad-tear
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/sad-tear.svg");
+}
+.icon-satellite-dish
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/satellite-dish.svg");
+}
+.icon-satellite
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/satellite.svg");
+}
+.icon-save
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/save.svg");
+}
+.icon-school
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/school.svg");
+}
+.icon-screwdriver
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/screwdriver.svg");
+}
+.icon-scroll
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/scroll.svg");
+}
+.icon-sd-card
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/sd-card.svg");
+}
+.icon-search-dollar
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/search-dollar.svg");
+}
+.icon-search-location
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/search-location.svg");
+}
+.icon-search-minus
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/search-minus.svg");
+}
+.icon-search-plus
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/search-plus.svg");
+}
+.icon-search
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/search.svg");
+}
+.icon-seedling
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/seedling.svg");
+}
+.icon-server
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/server.svg");
+}
+.icon-shapes
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/shapes.svg");
+}
+.icon-share-alt-square
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/share-alt-square.svg");
+}
+.icon-share-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/share-alt.svg");
+}
+.icon-share-square
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/share-square.svg");
+}
+.icon-share
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/share.svg");
+}
+.icon-shekel-sign
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/shekel-sign.svg");
+}
+.icon-shield-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/shield-alt.svg");
+}
+.icon-shield-virus
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/shield-virus.svg");
+}
+.icon-ship
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/ship.svg");
+}
+.icon-shipping-fast
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/shipping-fast.svg");
+}
+.icon-shoe-prints
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/shoe-prints.svg");
+}
+.icon-shopping-bag
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/shopping-bag.svg");
+}
+.icon-shopping-basket
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/shopping-basket.svg");
+}
+.icon-shopping-cart
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/shopping-cart.svg");
+}
+.icon-shower
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/shower.svg");
+}
+.icon-shuttle-van
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/shuttle-van.svg");
+}
+.icon-sign-in-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/sign-in-alt.svg");
+}
+.icon-sign-language
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/sign-language.svg");
+}
+.icon-sign-out-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/sign-out-alt.svg");
+}
+.icon-sign
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/sign.svg");
+}
+.icon-signal
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/signal.svg");
+}
+.icon-signature
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/signature.svg");
+}
+.icon-sim-card
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/sim-card.svg");
+}
+.icon-sitemap
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/sitemap.svg");
+}
+.icon-skating
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/skating.svg");
+}
+.icon-skiing-nordic
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/skiing-nordic.svg");
+}
+.icon-skiing
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/skiing.svg");
+}
+.icon-skull-crossbones
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/skull-crossbones.svg");
+}
+.icon-skull
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/skull.svg");
+}
+.icon-slash
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/slash.svg");
+}
+.icon-sleigh
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/sleigh.svg");
+}
+.icon-sliders-h
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/sliders-h.svg");
+}
+.icon-smile-beam
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/smile-beam.svg");
+}
+.icon-smile-wink
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/smile-wink.svg");
+}
+.icon-smile
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/smile.svg");
+}
+.icon-smog
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/smog.svg");
+}
+.icon-smoking-ban
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/smoking-ban.svg");
+}
+.icon-smoking
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/smoking.svg");
+}
+.icon-sms
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/sms.svg");
+}
+.icon-snowboarding
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/snowboarding.svg");
+}
+.icon-snowflake
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/snowflake.svg");
+}
+.icon-snowman
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/snowman.svg");
+}
+.icon-snowplow
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/snowplow.svg");
+}
+.icon-soap
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/soap.svg");
+}
+.icon-socks
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/socks.svg");
+}
+.icon-solar-panel
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/solar-panel.svg");
+}
+.icon-sort-alpha-down-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/sort-alpha-down-alt.svg");
+}
+.icon-sort-alpha-down
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/sort-alpha-down.svg");
+}
+.icon-sort-alpha-up-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/sort-alpha-up-alt.svg");
+}
+.icon-sort-alpha-up
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/sort-alpha-up.svg");
+}
+.icon-sort-amount-down-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/sort-amount-down-alt.svg");
+}
+.icon-sort-amount-down
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/sort-amount-down.svg");
+}
+.icon-sort-amount-up-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/sort-amount-up-alt.svg");
+}
+.icon-sort-amount-up
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/sort-amount-up.svg");
+}
+.icon-sort-down
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/sort-down.svg");
+}
+.icon-sort-numeric-down-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/sort-numeric-down-alt.svg");
+}
+.icon-sort-numeric-down
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/sort-numeric-down.svg");
+}
+.icon-sort-numeric-up-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/sort-numeric-up-alt.svg");
+}
+.icon-sort-numeric-up
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/sort-numeric-up.svg");
+}
+.icon-sort-up
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/sort-up.svg");
+}
+.icon-sort
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/sort.svg");
+}
+.icon-spa
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/spa.svg");
+}
+.icon-space-shuttle
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/space-shuttle.svg");
+}
+.icon-spell-check
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/spell-check.svg");
+}
+.icon-spider
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/spider.svg");
+}
+.icon-spinner
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/spinner.svg");
+}
+.icon-splotch
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/splotch.svg");
+}
+.icon-spray-can
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/spray-can.svg");
+}
+.icon-square-full
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/square-full.svg");
+}
+.icon-square-root-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/square-root-alt.svg");
+}
+.icon-square
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/square.svg");
+}
+.icon-stamp
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/stamp.svg");
+}
+.icon-star-and-crescent
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/star-and-crescent.svg");
+}
+.icon-star-half-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/star-half-alt.svg");
+}
+.icon-star-half
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/star-half.svg");
+}
+.icon-star-of-david
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/star-of-david.svg");
+}
+.icon-star-of-life
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/star-of-life.svg");
+}
+.icon-star
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/star.svg");
+}
+.icon-step-backward
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/step-backward.svg");
+}
+.icon-step-forward
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/step-forward.svg");
+}
+.icon-stethoscope
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/stethoscope.svg");
+}
+.icon-sticky-note
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/sticky-note.svg");
+}
+.icon-stop-circle
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/stop-circle.svg");
+}
+.icon-stop
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/stop.svg");
+}
+.icon-stopwatch-20
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/stopwatch-20.svg");
+}
+.icon-stopwatch
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/stopwatch.svg");
+}
+.icon-store-alt-slash
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/store-alt-slash.svg");
+}
+.icon-store-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/store-alt.svg");
+}
+.icon-store-slash
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/store-slash.svg");
+}
+.icon-store
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/store.svg");
+}
+.icon-stream
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/stream.svg");
+}
+.icon-street-view
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/street-view.svg");
+}
+.icon-strikethrough
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/strikethrough.svg");
+}
+.icon-stroopwafel
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/stroopwafel.svg");
+}
+.icon-subscript
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/subscript.svg");
+}
+.icon-subway
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/subway.svg");
+}
+.icon-suitcase-rolling
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/suitcase-rolling.svg");
+}
+.icon-suitcase
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/suitcase.svg");
+}
+.icon-sun
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/sun.svg");
+}
+.icon-superscript
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/superscript.svg");
+}
+.icon-surprise
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/surprise.svg");
+}
+.icon-swatchbook
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/swatchbook.svg");
+}
+.icon-swimmer
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/swimmer.svg");
+}
+.icon-swimming-pool
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/swimming-pool.svg");
+}
+.icon-synagogue
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/synagogue.svg");
+}
+.icon-sync-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/sync-alt.svg");
+}
+.icon-sync
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/sync.svg");
+}
+.icon-syringe
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/syringe.svg");
+}
+.icon-table-tennis
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/table-tennis.svg");
+}
+.icon-table
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/table.svg");
+}
+.icon-tablet-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/tablet-alt.svg");
+}
+.icon-tablet
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/tablet.svg");
+}
+.icon-tablets
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/tablets.svg");
+}
+.icon-tachometer-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/tachometer-alt.svg");
+}
+.icon-tag
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/tag.svg");
+}
+.icon-tags
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/tags.svg");
+}
+.icon-tape
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/tape.svg");
+}
+.icon-tasks
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/tasks.svg");
+}
+.icon-taxi
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/taxi.svg");
+}
+.icon-teeth-open
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/teeth-open.svg");
+}
+.icon-teeth
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/teeth.svg");
+}
+.icon-temperature-high
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/temperature-high.svg");
+}
+.icon-temperature-low
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/temperature-low.svg");
+}
+.icon-tenge
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/tenge.svg");
+}
+.icon-terminal
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/terminal.svg");
+}
+.icon-text-height
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/text-height.svg");
+}
+.icon-text-width
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/text-width.svg");
+}
+.icon-th-large
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/th-large.svg");
+}
+.icon-th-list
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/th-list.svg");
+}
+.icon-th
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/th.svg");
+}
+.icon-theater-masks
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/theater-masks.svg");
+}
+.icon-thermometer-empty
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/thermometer-empty.svg");
+}
+.icon-thermometer-full
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/thermometer-full.svg");
+}
+.icon-thermometer-half
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/thermometer-half.svg");
+}
+.icon-thermometer-quarter
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/thermometer-quarter.svg");
+}
+.icon-thermometer-three-quarters
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/thermometer-three-quarters.svg");
+}
+.icon-thermometer
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/thermometer.svg");
+}
+.icon-thumbs-down
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/thumbs-down.svg");
+}
+.icon-thumbs-up
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/thumbs-up.svg");
+}
+.icon-thumbtack
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/thumbtack.svg");
+}
+.icon-ticket-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/ticket-alt.svg");
+}
+.icon-times-circle
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/times-circle.svg");
+}
+.icon-times
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/times.svg");
+}
+.icon-tint-slash
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/tint-slash.svg");
+}
+.icon-tint
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/tint.svg");
+}
+.icon-tired
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/tired.svg");
+}
+.icon-toggle-off
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/toggle-off.svg");
+}
+.icon-toggle-on
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/toggle-on.svg");
+}
+.icon-toilet-paper-slash
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/toilet-paper-slash.svg");
+}
+.icon-toilet-paper
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/toilet-paper.svg");
+}
+.icon-toilet
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/toilet.svg");
+}
+.icon-toolbox
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/toolbox.svg");
+}
+.icon-tools
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/tools.svg");
+}
+.icon-tooth
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/tooth.svg");
+}
+.icon-torah
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/torah.svg");
+}
+.icon-torii-gate
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/torii-gate.svg");
+}
+.icon-tractor
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/tractor.svg");
+}
+.icon-trademark
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/trademark.svg");
+}
+.icon-traffic-light
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/traffic-light.svg");
+}
+.icon-trailer
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/trailer.svg");
+}
+.icon-train
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/train.svg");
+}
+.icon-tram
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/tram.svg");
+}
+.icon-transgender-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/transgender-alt.svg");
+}
+.icon-transgender
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/transgender.svg");
+}
+.icon-trash-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/trash-alt.svg");
+}
+.icon-trash-restore-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/trash-restore-alt.svg");
+}
+.icon-trash-restore
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/trash-restore.svg");
+}
+.icon-trash
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/trash.svg");
+}
+.icon-tree
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/tree.svg");
+}
+.icon-trophy
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/trophy.svg");
+}
+.icon-truck-loading
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/truck-loading.svg");
+}
+.icon-truck-monster
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/truck-monster.svg");
+}
+.icon-truck-moving
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/truck-moving.svg");
+}
+.icon-truck-pickup
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/truck-pickup.svg");
+}
+.icon-truck
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/truck.svg");
+}
+.icon-tshirt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/tshirt.svg");
+}
+.icon-tty
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/tty.svg");
+}
+.icon-tv
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/tv.svg");
+}
+.icon-umbrella-beach
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/umbrella-beach.svg");
+}
+.icon-umbrella
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/umbrella.svg");
+}
+.icon-underline
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/underline.svg");
+}
+.icon-undo-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/undo-alt.svg");
+}
+.icon-undo
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/undo.svg");
+}
+.icon-universal-access
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/universal-access.svg");
+}
+.icon-university
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/university.svg");
+}
+.icon-unlink
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/unlink.svg");
+}
+.icon-unlock-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/unlock-alt.svg");
+}
+.icon-unlock
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/unlock.svg");
+}
+.icon-upload
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/upload.svg");
+}
+.icon-user-alt-slash
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/user-alt-slash.svg");
+}
+.icon-user-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/user-alt.svg");
+}
+.icon-user-astronaut
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/user-astronaut.svg");
+}
+.icon-user-check
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/user-check.svg");
+}
+.icon-user-circle
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/user-circle.svg");
+}
+.icon-user-clock
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/user-clock.svg");
+}
+.icon-user-cog
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/user-cog.svg");
+}
+.icon-user-edit
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/user-edit.svg");
+}
+.icon-user-friends
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/user-friends.svg");
+}
+.icon-user-graduate
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/user-graduate.svg");
+}
+.icon-user-injured
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/user-injured.svg");
+}
+.icon-user-lock
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/user-lock.svg");
+}
+.icon-user-md
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/user-md.svg");
+}
+.icon-user-minus
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/user-minus.svg");
+}
+.icon-user-ninja
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/user-ninja.svg");
+}
+.icon-user-nurse
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/user-nurse.svg");
+}
+.icon-user-plus
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/user-plus.svg");
+}
+.icon-user-secret
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/user-secret.svg");
+}
+.icon-user-shield
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/user-shield.svg");
+}
+.icon-user-slash
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/user-slash.svg");
+}
+.icon-user-tag
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/user-tag.svg");
+}
+.icon-user-tie
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/user-tie.svg");
+}
+.icon-user-times
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/user-times.svg");
+}
+.icon-user
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/user.svg");
+}
+.icon-users-cog
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/users-cog.svg");
+}
+.icon-users
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/users.svg");
+}
+.icon-utensil-spoon
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/utensil-spoon.svg");
+}
+.icon-utensils
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/utensils.svg");
+}
+.icon-vector-square
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/vector-square.svg");
+}
+.icon-venus-double
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/venus-double.svg");
+}
+.icon-venus-mars
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/venus-mars.svg");
+}
+.icon-venus
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/venus.svg");
+}
+.icon-vial
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/vial.svg");
+}
+.icon-vials
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/vials.svg");
+}
+.icon-video-slash
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/video-slash.svg");
+}
+.icon-video
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/video.svg");
+}
+.icon-vihara
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/vihara.svg");
+}
+.icon-virus-slash
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/virus-slash.svg");
+}
+.icon-virus
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/virus.svg");
+}
+.icon-viruses
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/viruses.svg");
+}
+.icon-voicemail
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/voicemail.svg");
+}
+.icon-volleyball-ball
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/volleyball-ball.svg");
+}
+.icon-volume-down
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/volume-down.svg");
+}
+.icon-volume-mute
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/volume-mute.svg");
+}
+.icon-volume-off
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/volume-off.svg");
+}
+.icon-volume-up
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/volume-up.svg");
+}
+.icon-vote-yea
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/vote-yea.svg");
+}
+.icon-vr-cardboard
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/vr-cardboard.svg");
+}
+.icon-walking
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/walking.svg");
+}
+.icon-wallet
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/wallet.svg");
+}
+.icon-warehouse
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/warehouse.svg");
+}
+.icon-water
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/water.svg");
+}
+.icon-wave-square
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/wave-square.svg");
+}
+.icon-weight-hanging
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/weight-hanging.svg");
+}
+.icon-weight
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/weight.svg");
+}
+.icon-wheelchair
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/wheelchair.svg");
+}
+.icon-wifi
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/wifi.svg");
+}
+.icon-wind
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/wind.svg");
+}
+.icon-window-close
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/window-close.svg");
+}
+.icon-window-maximize
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/window-maximize.svg");
+}
+.icon-window-minimize
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/window-minimize.svg");
+}
+.icon-window-restore
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/window-restore.svg");
+}
+.icon-wine-bottle
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/wine-bottle.svg");
+}
+.icon-wine-glass-alt
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/wine-glass-alt.svg");
+}
+.icon-wine-glass
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/wine-glass.svg");
+}
+.icon-won-sign
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/won-sign.svg");
+}
+.icon-wrench
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/wrench.svg");
+}
+.icon-x-ray
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/x-ray.svg");
+}
+.icon-yen-sign
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/yen-sign.svg");
+}
+.icon-yin-yang
+{
+  content: url("https://raw.githubusercontent.com/deadlybite110/UltimatePaperclipsRemastered/master/content/icons/yin-yang.svg");
+}

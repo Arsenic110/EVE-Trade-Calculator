@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<head>
+    <link rel="stylesheet" type="text/css" href="style/nt.css">
+    <link rel="stylesheet" type="text/css" href="style/icons.css">
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="js/item.js"></script>
+    <script src="js/main.js"></script>
+    <title>EVE Online Trade Calculator</title>
+</head>
+<body>
+    <div>
+        <h3 class="text-orange"><i class="icon icon-eye-green"></i> EVE Online Trade Calculator</h3>
+    </div>
+
+    <div class="hazard">
+        <h1 class="center-text"><i>Warning! Interface currently under construction.</i></h1>
+    </div>
+
+    <p class="text center-text" style="max-width: 80%;"><i class="icon icon-info"></i> This "Calculator" repeatedly pings the EVEMarketer API for each product ID 
+        between a set range (box 1 and box 2), and will try to determine if buying it cheaply someplace and selling elsewhere is worth it. The checkbox will trigger a download of a CSV file containing the entire table of data that the program generated.
+        Unfortunately, currently, the site will seize up when you start the loading, and will only unfreeze when it finishes, and I'm not sure if that is something I 
+        can even fix. Anyway, have fun :3
+    </p>
+
+    <p class="text" id="data-unloaded"><i class="icon icon-warning-triangle"></i> Page Data was not loaded.</p>
+
+    
+
+    
+
+    <table style="width: 100%;"> 
+        <tr>
+            <td><button class="button button-active" id="load-button" onclick="beginLoad()"><i class="icon icon-gear"></i> Begin loading data!</button></td>
+            <td><input type="text" id="start" value="18"></td>
+            <td><input type="text" id="end" value="250"></td>
+        </tr>
+    </table>
+
+    <p class="text"><input type="checkbox" id="csvcheck"> Download CSV when finished</p>
+
+    <table class="list-table" id="elementTable">
+        <thead>
+            <tr>
+                <th>TypeID</th>
+                <th>Buy</th>
+                <th>Sell</th>
+                <th>Markup</th>
+                <th>Link to Marketer</th>
+            </tr>
+        </thead>
+        <tbody>
+
+        </tbody>
+    </table>
+
+
+
+
+</body>
